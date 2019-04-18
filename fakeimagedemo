@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "Lenslet Demo, Trust Safety - Parkland",
+    "image": "https://github.com/aizazgit/demo/blob/master/DZFfnnKVAAAP3pu.jpg?raw=true"
+
+  },
+  "arPlacement": {
+    "@type": "ARPlanarReplacement",
+    "scaleMode": "ScaleModeFit"
+  },
+  "arContent": {
+    "@type": "VideoObject",
+    "name": "Demo of a fact check lenslet (snopes)",
+    "contentUrl": "https://github.com/aizazgit/demo/blob/master/DZFfnnKVAAAP3pu_1.mp4?raw=true",
+    "image": "https://www.telegraph.co.uk/content/dam/news/2018/03/26/TELEMMGLPICT000158761368_trans_NvBQzQNjv4BqaRL1kC4G7DT9ZsZm6Pe3PUPXbRlaI4_qh_dM2Z5d688.jpeg?imwidth=1400",
+    "url": "https://www.snopes.com/fact-check/emma-gonzalez-ripping-up-constitution/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Google",
+      "logo": "https://raw.githubusercontent.com/hgharrygo/ianlens/master/google-g.png"
+    }
+  }
+}
+</script>
